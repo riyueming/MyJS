@@ -1,0 +1,1 @@
+此文件夹为ajax的GET、POST请求的Dome，有原生js实现，也有jQ实现
